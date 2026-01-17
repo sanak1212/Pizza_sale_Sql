@@ -9,7 +9,9 @@ Dataset includes information about orders, pizzas, pizza types, prices, quantiti
 🛠 Tools & Technologies. ----  MySQL Workbench.
 
 🔍 Key Analysis Performed:
+
 The highest-priced pizza.
+
 Total revenue generated from pizza sales.
 List the top 5 most ordered pizza types along with their quantities.
 The most common pizza size ordered, Etc.
